@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.0]
 
-- No features yet
+- Generate project from template
 
 [Unreleased]: https://github.com/blakeNaccarato/copyup/compare/0.0.0...HEAD
 [0.0.0]: https://github.com/blakeNaccarato/copyup/releases/tag/0.0.0
